@@ -1,0 +1,9 @@
+@misc{REPO186,
+    author = "Xing, Ximing and Zhou, Haitao and Wang, Chuang and Zhang, Jing and Xu, Dong and Yu, Qian",
+    archiveprefix = "arXiv",
+    eprint = "2312.16476",
+    primaryclass = "cs.CV",
+    title = "{SVGDreamer: Text Guided SVG Generation with Diffusion Model}",
+    url = "https://arxiv.org/abs/2312.16476",
+    year = "2024"
+}
